@@ -14,10 +14,10 @@ Welcome to my Manual Testing Portfolio. This repository showcases my hands-on ex
 
 | Project Name                   | Description                                                                | Tools Used                  |
 |--------------------------------|----------------------------------------------------------------------------|-----------------------------|
-| **API Functionality Testing**  | Validated API responses and error handling for a RESTful service           | Postman, TestRail, Jira     |
-| **Mobile App Compatibility**   | Tested responsiveness and performance across multiple mobile devices       | Appium, TestLink, Jira      |
-| **UI/UX Exploratory Testing**  | Performed exploratory testing to identify visual and interaction issues    | BrowserStack, Jira          |
-| **E-commerce Checkout Flow**   | Manually tested user journey from cart to payment across browsers          | Chrome DevTools, TestRail   |
+| **PROJECT 1**                  | Validated API responses and error handling for a RESTful service           | Postman, TestRail, Jira     |
+| **TBD**                        | TBD                                                                        | TBD                         |
+| **TBD**                        | TBD                                                                        | TBD                         |
+| **TBD**                        | TBD                                                                        | TBD                         |
 
 ## 🚀 Getting Started
 
